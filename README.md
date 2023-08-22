@@ -1,6 +1,7 @@
 ### Salve! Guilherme aqui. 👋
 
-- 📚 Cursando Técnico em Informática no Instituto Federal.
+- 💻 Técnico em Informática formado pelo Instituto Federal.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal.
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
