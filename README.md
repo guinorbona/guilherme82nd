@@ -1,4 +1,3 @@
-# Guilherme&nbsp;<img src="[(https://imgur.com/zzoUPoC)]" width="30px">
 
 ### Bom dia! Me chamo Guilherme. 👋
 
