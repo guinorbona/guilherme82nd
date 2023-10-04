@@ -15,7 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40" alt="Java"/>
     &nbsp&nbsp&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" alt="MySQL" />
+    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" alt="MySQL" />
     &nbsp&nbsp&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" alt="PHP"/>
     &nbsp&nbsp&nbsp
@@ -40,7 +40,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
     &nbsp&nbsp&nbsp
 
-- **Sistema Operacional**:
+<!-- **Sistema Operacional**:
   
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg"  height="35" alt="Windows 11"/>
-    &nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp-->
