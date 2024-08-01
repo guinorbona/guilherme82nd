@@ -4,7 +4,7 @@
 
 - 💻 Técnico em Informática formado pelo Instituto Federal.
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal.
-- 📂 Desenvolvedor Front-End.
+- 📂 Desenvolvedor.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 
@@ -12,8 +12,9 @@
   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40" alt="C"/>
     &nbsp&nbsp&nbsp
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40" height="40" alt="Java"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40" alt="Java"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="Java"/>
     &nbsp&nbsp&nbsp
     
 - **Front-End**:
